@@ -1,0 +1,5092 @@
+{"type": "FeatureCollection",
+ "features": [
+    {"type": "Feature",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-75.86, 39.701, 1000],
+         [-76.05, 39.824, 993],
+         [-76.262, 39.979, 1008],
+         [-76.501, 40.187, 1047],
+         [-76.785, 40.459, 1108],
+         [-77.115, 40.768, 1142],
+         [-77.502, 41.115, 1193],
+         [-77.906, 41.426, 1263],
+         [-78.366, 41.705, 1347],
+         [-78.864, 41.984, 1478],
+         [-79.34, 42.243, 1631],
+         [-79.785, 42.443, 1618],
+         [-80.18, 42.64, 1528],
+         [-80.59, 42.847, 1507],
+         [-81.065, 43.02, 1513],
+         [-81.559, 43.177, 1515],
+         [-82.017, 43.361, 1330],
+         [-82.449, 43.528, 1253],
+         [-82.878, 43.665, 1271],
+         [-83.234, 43.797, 1261],
+         [-83.593, 43.89, 1240],
+         [-83.942, 43.949, 1152],
+         [-84.249, 43.989, 1085],
+         [-84.518, 44.019, 1032],
+         [-84.764, 44.031, 980],
+         [-84.995, 44.047, 925],
+         [-85.196, 44.08, 858],
+         [-85.368, 44.121, 794],
+         [-85.54, 44.179, 758],
+         [-85.742, 44.276, 748],
+         [-85.962, 44.42, 739],
+         [-86.213, 44.576, 720],
+         [-86.508, 44.705, 709],
+         [-86.863, 44.806, 708],
+         [-87.259, 44.877, 699],
+         [-87.655, 44.904, 701],
+         [-88.061, 44.9, 735],
+         [-88.495, 44.881, 785],
+         [-88.948, 44.823, 807],
+         [-89.424, 44.74, 820],
+         [-89.889, 44.647, 835],
+         [-90.295, 44.529, 846],
+         [-90.618, 44.387, 857],
+         [-90.904, 44.201, 881],
+         [-91.169, 43.973, 873],
+         [-91.407, 43.718, 844],
+         [-91.681, 43.446, 795],
+         [-92.021, 43.169, 743],
+         [-92.356, 42.878, 673],
+         [-92.716, 42.541, 608],
+         [-93.211, 42.134, 563],
+         [-93.721, 41.673, 482],
+         [-94.272, 41.157, 497],
+         [-94.867, 40.633, 530],
+         [-95.41, 40.103, 499],
+         [-96.009, 39.538, 553],
+         [-96.543, 38.94, 544],
+         [-96.992, 38.325, 586],
+         [-97.305, 37.739, 619],
+         [-97.483, 37.194, 623],
+         [-97.553, 36.693, 620],
+         [-97.566, 36.267, 671],
+         [-97.541, 35.921, 683],
+         [-97.47, 35.633, 695],
+         [-97.379, 35.388, 715],
+         [-97.281, 35.19, 720],
+         [-97.185, 35.029, 715],
+         [-97.085, 34.902, 705],
+         [-96.978, 34.804, 696],
+         [-96.863, 34.729, 687],
+         [-96.752, 34.67, 696],
+         [-96.655, 34.622, 715],
+         [-96.574, 34.584, 726]
+       ]
+     },
+     "properties": 
+       {
+         "height": 1000,
+         "SITE_ID": "24-015-0003",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "rank": "1",
+         "year": "2012",
+         "date": "2012-06-29"
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-75.86, 39.701, 100],
+         [-75.942, 39.737, 84],
+         [-76.04, 39.805, 81],
+         [-76.149, 39.905, 94],
+         [-76.276, 39.995, 102],
+         [-76.421, 40.055, 89],
+         [-76.554, 40.095, 68],
+         [-76.675, 40.093, 52],
+         [-76.825, 40.031, 47],
+         [-77.042, 39.901, 62],
+         [-77.305, 39.778, 105],
+         [-77.594, 39.744, 171],
+         [-77.883, 39.741, 234],
+         [-78.314, 39.762, 364],
+         [-79.004, 39.839, 596],
+         [-79.751, 39.845, 603],
+         [-80.318, 39.721, 567],
+         [-80.813, 39.589, 537],
+         [-81.209, 39.455, 517],
+         [-81.553, 39.334, 516],
+         [-81.882, 39.232, 534],
+         [-82.202, 39.147, 543],
+         [-82.513, 39.073, 553],
+         [-82.816, 39.001, 573],
+         [-83.118, 38.94, 611],
+         [-83.476, 38.915, 645],
+         [-83.931, 38.967, 641],
+         [-84.459, 39.091, 603],
+         [-85.026, 39.262, 603],
+         [-85.67, 39.476, 604],
+         [-86.38, 39.713, 598],
+         [-87.15, 39.974, 586],
+         [-87.893, 40.181, 571],
+         [-88.628, 40.356, 550],
+         [-89.417, 40.403, 479],
+         [-90.206, 40.311, 395],
+         [-91.014, 40.116, 374],
+         [-91.715, 39.82, 353],
+         [-92.299, 39.478, 388],
+         [-92.747, 39.124, 400],
+         [-93.088, 38.786, 455],
+         [-93.373, 38.476, 525],
+         [-93.597, 38.214, 545],
+         [-93.779, 37.97, 601],
+         [-93.935, 37.73, 680],
+         [-94.077, 37.5, 788],
+         [-94.233, 37.293, 880],
+         [-94.429, 37.109, 936],
+         [-94.656, 36.935, 951],
+         [-94.927, 36.749, 942],
+         [-95.224, 36.557, 954],
+         [-95.517, 36.365, 975],
+         [-95.794, 36.158, 985],
+         [-96.034, 35.94, 990],
+         [-96.239, 35.711, 991],
+         [-96.4, 35.478, 996],
+         [-96.519, 35.245, 982],
+         [-96.591, 34.987, 940],
+         [-96.603, 34.709, 916],
+         [-96.566, 34.459, 900],
+         [-96.483, 34.24, 874],
+         [-96.348, 34.05, 857],
+         [-96.158, 33.886, 814],
+         [-95.92, 33.752, 730],
+         [-95.651, 33.659, 617],
+         [-95.387, 33.609, 549],
+         [-95.156, 33.594, 521],
+         [-94.95, 33.599, 489],
+         [-94.751, 33.622, 450],
+         [-94.562, 33.669, 419],
+         [-94.386, 33.722, 420],
+         [-94.223, 33.76, 430],
+         [-94.071, 33.789, 425]
+       ]
+     },
+     "properties": 
+       {
+         "height": 100,
+         "SITE_ID": "24-015-0003",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "rank": "1",
+         "year": "2012",
+         "date": "2012-06-29"
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "LineString",
+       "coordinates": [
+         [-75.86, 39.701, 10],
+         [-75.945, 39.732, 8],
+         [-76.043, 39.795, 7],
+         [-76.148, 39.887, 9],
+         [-76.253, 39.968, 10],
+         [-76.349, 40.005, 9],
+         [-76.431, 40.005, 6],
+         [-76.511, 39.971, 4],
+         [-76.61, 39.902, 5],
+         [-76.737, 39.796, 10],
+         [-76.864, 39.686, 13],
+         [-76.972, 39.598, 18],
+         [-77.07, 39.517, 35],
+         [-77.183, 39.4, 64],
+         [-77.285, 39.24, 65],
+         [-77.352, 39.081, 50],
+         [-77.403, 38.929, 42],
+         [-77.438, 38.794, 36],
+         [-77.451, 38.678, 29],
+         [-77.474, 38.581, 22],
+         [-77.534, 38.494, 8],
+         [-77.635, 38.398, 6],
+         [-77.749, 38.302, 8],
+         [-77.844, 38.214, 8],
+         [-77.919, 38.13, 8],
+         [-77.985, 38.049, 8],
+         [-78.054, 37.97, 8],
+         [-78.122, 37.897, 9],
+         [-78.178, 37.839, 6],
+         [-78.221, 37.799, 0],
+         [-78.257, 37.778, 0],
+         [-78.294, 37.769, 0],
+         [-78.341, 37.763, 0],
+         [-78.398, 37.765, 0],
+         [-78.452, 37.772, 0],
+         [-78.489, 37.777, 0],
+         [-78.509, 37.779, 0],
+         [-78.525, 37.771, 0],
+         [-78.548, 37.747, 0],
+         [-78.578, 37.707, 0],
+         [-78.602, 37.66, 0],
+         [-78.61, 37.617, 0],
+         [-78.604, 37.58, 0],
+         [-78.601, 37.564, 0],
+         [-78.616, 37.58, 0],
+         [-78.644, 37.625, 0],
+         [-78.673, 37.686, 2],
+         [-78.697, 37.759, 3],
+         [-78.718, 37.845, 4],
+         [-78.745, 37.953, 5],
+         [-78.782, 38.087, 6],
+         [-78.827, 38.253, 8],
+         [-78.884, 38.425, 13],
+         [-78.962, 38.565, 26],
+         [-79.056, 38.683, 35],
+         [-79.16, 38.778, 29],
+         [-79.285, 38.879, 47],
+         [-79.43, 39.018, 106],
+         [-79.589, 39.201, 93],
+         [-79.637, 39.229, 34],
+         [-79.644, 39.208, 7],
+         [-79.651, 39.193, 0],
+         [-79.67, 39.201, 0],
+         [-79.696, 39.231, 0],
+         [-79.728, 39.279, 0],
+         [-79.766, 39.34, 0],
+         [-79.81, 39.412, 0],
+         [-79.862, 39.508, 0],
+         [-79.925, 39.646, 0],
+         [-79.994, 39.827, 0],
+         [-80.067, 40.015, 0],
+         [-80.141, 40.178, 0],
+         [-80.204, 40.318, 0]
+       ]
+     },
+     "properties": 
+       {
+         "height": 10,
+         "SITE_ID": "24-015-0003",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "rank": "1",
+         "year": "2012",
+         "date": "2012-06-29"
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-75.86, 39.701, 1000]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 18,
+         "minute": 0,
+         "age": 0,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.05, 39.824, 993]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 17,
+         "minute": 0,
+         "age": -1,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.262, 39.979, 1008]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 16,
+         "minute": 0,
+         "age": -2,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.501, 40.187, 1047]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 15,
+         "minute": 0,
+         "age": -3,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.785, 40.459, 1108]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 14,
+         "minute": 0,
+         "age": -4,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.115, 40.768, 1142]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 13,
+         "minute": 0,
+         "age": -5,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.502, 41.115, 1193]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 12,
+         "minute": 0,
+         "age": -6,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.906, 41.426, 1263]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 11,
+         "minute": 0,
+         "age": -7,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.366, 41.705, 1347]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 10,
+         "minute": 0,
+         "age": -8,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.864, 41.984, 1478]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 9,
+         "minute": 0,
+         "age": -9,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.34, 42.243, 1631]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 8,
+         "minute": 0,
+         "age": -10,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.785, 42.443, 1618]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 7,
+         "minute": 0,
+         "age": -11,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-80.18, 42.64, 1528]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 6,
+         "minute": 0,
+         "age": -12,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-80.59, 42.847, 1507]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 5,
+         "minute": 0,
+         "age": -13,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-81.065, 43.02, 1513]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 4,
+         "minute": 0,
+         "age": -14,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-81.559, 43.177, 1515]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 3,
+         "minute": 0,
+         "age": -15,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-82.017, 43.361, 1330]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 2,
+         "minute": 0,
+         "age": -16,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-82.449, 43.528, 1253]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 1,
+         "minute": 0,
+         "age": -17,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-82.878, 43.665, 1271]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 0,
+         "minute": 0,
+         "age": -18,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-83.234, 43.797, 1261]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 23,
+         "minute": 0,
+         "age": -19,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-83.593, 43.89, 1240]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 22,
+         "minute": 0,
+         "age": -20,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-83.942, 43.949, 1152]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 21,
+         "minute": 0,
+         "age": -21,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-84.249, 43.989, 1085]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 20,
+         "minute": 0,
+         "age": -22,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-84.518, 44.019, 1032]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 19,
+         "minute": 0,
+         "age": -23,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-84.764, 44.031, 980]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 18,
+         "minute": 0,
+         "age": -24,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-84.995, 44.047, 925]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 17,
+         "minute": 0,
+         "age": -25,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-85.196, 44.08, 858]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 16,
+         "minute": 0,
+         "age": -26,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-85.368, 44.121, 794]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 15,
+         "minute": 0,
+         "age": -27,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-85.54, 44.179, 758]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 14,
+         "minute": 0,
+         "age": -28,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-85.742, 44.276, 748]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 13,
+         "minute": 0,
+         "age": -29,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-85.962, 44.42, 739]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 12,
+         "minute": 0,
+         "age": -30,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-86.213, 44.576, 720]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 11,
+         "minute": 0,
+         "age": -31,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-86.508, 44.705, 709]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 10,
+         "minute": 0,
+         "age": -32,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-86.863, 44.806, 708]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 9,
+         "minute": 0,
+         "age": -33,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-87.259, 44.877, 699]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 8,
+         "minute": 0,
+         "age": -34,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-87.655, 44.904, 701]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 7,
+         "minute": 0,
+         "age": -35,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-88.061, 44.9, 735]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 6,
+         "minute": 0,
+         "age": -36,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-88.495, 44.881, 785]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 5,
+         "minute": 0,
+         "age": -37,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-88.948, 44.823, 807]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 4,
+         "minute": 0,
+         "age": -38,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-89.424, 44.74, 820]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 3,
+         "minute": 0,
+         "age": -39,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-89.889, 44.647, 835]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 2,
+         "minute": 0,
+         "age": -40,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-90.295, 44.529, 846]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 1,
+         "minute": 0,
+         "age": -41,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-90.618, 44.387, 857]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 0,
+         "minute": 0,
+         "age": -42,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-90.904, 44.201, 881]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 23,
+         "minute": 0,
+         "age": -43,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-91.169, 43.973, 873]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 22,
+         "minute": 0,
+         "age": -44,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-91.407, 43.718, 844]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 21,
+         "minute": 0,
+         "age": -45,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-91.681, 43.446, 795]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 20,
+         "minute": 0,
+         "age": -46,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-92.021, 43.169, 743]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 19,
+         "minute": 0,
+         "age": -47,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-92.356, 42.878, 673]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 18,
+         "minute": 0,
+         "age": -48,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-92.716, 42.541, 608]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 17,
+         "minute": 0,
+         "age": -49,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-93.211, 42.134, 563]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 16,
+         "minute": 0,
+         "age": -50,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-93.721, 41.673, 482]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 15,
+         "minute": 0,
+         "age": -51,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-94.272, 41.157, 497]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 14,
+         "minute": 0,
+         "age": -52,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-94.867, 40.633, 530]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 13,
+         "minute": 0,
+         "age": -53,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-95.41, 40.103, 499]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 12,
+         "minute": 0,
+         "age": -54,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.009, 39.538, 553]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 11,
+         "minute": 0,
+         "age": -55,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.543, 38.94, 544]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 10,
+         "minute": 0,
+         "age": -56,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.992, 38.325, 586]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 9,
+         "minute": 0,
+         "age": -57,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-97.305, 37.739, 619]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 8,
+         "minute": 0,
+         "age": -58,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-97.483, 37.194, 623]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 7,
+         "minute": 0,
+         "age": -59,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-97.553, 36.693, 620]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 6,
+         "minute": 0,
+         "age": -60,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-97.566, 36.267, 671]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 5,
+         "minute": 0,
+         "age": -61,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-97.541, 35.921, 683]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 4,
+         "minute": 0,
+         "age": -62,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-97.47, 35.633, 695]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 3,
+         "minute": 0,
+         "age": -63,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-97.379, 35.388, 715]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 2,
+         "minute": 0,
+         "age": -64,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-97.281, 35.19, 720]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 1,
+         "minute": 0,
+         "age": -65,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-97.185, 35.029, 715]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 0,
+         "minute": 0,
+         "age": -66,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-97.085, 34.902, 705]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 23,
+         "minute": 0,
+         "age": -67,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.978, 34.804, 696]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 22,
+         "minute": 0,
+         "age": -68,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.863, 34.729, 687]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 21,
+         "minute": 0,
+         "age": -69,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.752, 34.67, 696]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 20,
+         "minute": 0,
+         "age": -70,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.655, 34.622, 715]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 19,
+         "minute": 0,
+         "age": -71,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.574, 34.584, 726]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 18,
+         "minute": 0,
+         "age": -72,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 1000
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-75.86, 39.701, 100]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 18,
+         "minute": 0,
+         "age": 0,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-75.942, 39.737, 84]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 17,
+         "minute": 0,
+         "age": -1,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.04, 39.805, 81]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 16,
+         "minute": 0,
+         "age": -2,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.149, 39.905, 94]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 15,
+         "minute": 0,
+         "age": -3,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.276, 39.995, 102]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 14,
+         "minute": 0,
+         "age": -4,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.421, 40.055, 89]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 13,
+         "minute": 0,
+         "age": -5,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.554, 40.095, 68]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 12,
+         "minute": 0,
+         "age": -6,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.675, 40.093, 52]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 11,
+         "minute": 0,
+         "age": -7,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.825, 40.031, 47]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 10,
+         "minute": 0,
+         "age": -8,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.042, 39.901, 62]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 9,
+         "minute": 0,
+         "age": -9,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.305, 39.778, 105]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 8,
+         "minute": 0,
+         "age": -10,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.594, 39.744, 171]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 7,
+         "minute": 0,
+         "age": -11,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.883, 39.741, 234]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 6,
+         "minute": 0,
+         "age": -12,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.314, 39.762, 364]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 5,
+         "minute": 0,
+         "age": -13,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.004, 39.839, 596]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 4,
+         "minute": 0,
+         "age": -14,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.751, 39.845, 603]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 3,
+         "minute": 0,
+         "age": -15,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-80.318, 39.721, 567]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 2,
+         "minute": 0,
+         "age": -16,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-80.813, 39.589, 537]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 1,
+         "minute": 0,
+         "age": -17,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-81.209, 39.455, 517]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 0,
+         "minute": 0,
+         "age": -18,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-81.553, 39.334, 516]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 23,
+         "minute": 0,
+         "age": -19,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-81.882, 39.232, 534]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 22,
+         "minute": 0,
+         "age": -20,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-82.202, 39.147, 543]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 21,
+         "minute": 0,
+         "age": -21,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-82.513, 39.073, 553]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 20,
+         "minute": 0,
+         "age": -22,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-82.816, 39.001, 573]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 19,
+         "minute": 0,
+         "age": -23,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-83.118, 38.94, 611]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 18,
+         "minute": 0,
+         "age": -24,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-83.476, 38.915, 645]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 17,
+         "minute": 0,
+         "age": -25,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-83.931, 38.967, 641]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 16,
+         "minute": 0,
+         "age": -26,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-84.459, 39.091, 603]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 15,
+         "minute": 0,
+         "age": -27,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-85.026, 39.262, 603]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 14,
+         "minute": 0,
+         "age": -28,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-85.67, 39.476, 604]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 13,
+         "minute": 0,
+         "age": -29,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-86.38, 39.713, 598]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 12,
+         "minute": 0,
+         "age": -30,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-87.15, 39.974, 586]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 11,
+         "minute": 0,
+         "age": -31,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-87.893, 40.181, 571]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 10,
+         "minute": 0,
+         "age": -32,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-88.628, 40.356, 550]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 9,
+         "minute": 0,
+         "age": -33,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-89.417, 40.403, 479]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 8,
+         "minute": 0,
+         "age": -34,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-90.206, 40.311, 395]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 7,
+         "minute": 0,
+         "age": -35,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-91.014, 40.116, 374]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 6,
+         "minute": 0,
+         "age": -36,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-91.715, 39.82, 353]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 5,
+         "minute": 0,
+         "age": -37,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-92.299, 39.478, 388]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 4,
+         "minute": 0,
+         "age": -38,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-92.747, 39.124, 400]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 3,
+         "minute": 0,
+         "age": -39,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-93.088, 38.786, 455]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 2,
+         "minute": 0,
+         "age": -40,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-93.373, 38.476, 525]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 1,
+         "minute": 0,
+         "age": -41,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-93.597, 38.214, 545]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 0,
+         "minute": 0,
+         "age": -42,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-93.779, 37.97, 601]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 23,
+         "minute": 0,
+         "age": -43,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-93.935, 37.73, 680]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 22,
+         "minute": 0,
+         "age": -44,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-94.077, 37.5, 788]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 21,
+         "minute": 0,
+         "age": -45,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-94.233, 37.293, 880]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 20,
+         "minute": 0,
+         "age": -46,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-94.429, 37.109, 936]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 19,
+         "minute": 0,
+         "age": -47,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-94.656, 36.935, 951]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 18,
+         "minute": 0,
+         "age": -48,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-94.927, 36.749, 942]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 17,
+         "minute": 0,
+         "age": -49,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-95.224, 36.557, 954]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 16,
+         "minute": 0,
+         "age": -50,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-95.517, 36.365, 975]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 15,
+         "minute": 0,
+         "age": -51,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-95.794, 36.158, 985]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 14,
+         "minute": 0,
+         "age": -52,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.034, 35.94, 990]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 13,
+         "minute": 0,
+         "age": -53,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.239, 35.711, 991]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 12,
+         "minute": 0,
+         "age": -54,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.4, 35.478, 996]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 11,
+         "minute": 0,
+         "age": -55,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.519, 35.245, 982]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 10,
+         "minute": 0,
+         "age": -56,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.591, 34.987, 940]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 9,
+         "minute": 0,
+         "age": -57,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.603, 34.709, 916]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 8,
+         "minute": 0,
+         "age": -58,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.566, 34.459, 900]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 7,
+         "minute": 0,
+         "age": -59,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.483, 34.24, 874]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 6,
+         "minute": 0,
+         "age": -60,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.348, 34.05, 857]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 5,
+         "minute": 0,
+         "age": -61,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-96.158, 33.886, 814]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 4,
+         "minute": 0,
+         "age": -62,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-95.92, 33.752, 730]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 3,
+         "minute": 0,
+         "age": -63,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-95.651, 33.659, 617]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 2,
+         "minute": 0,
+         "age": -64,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-95.387, 33.609, 549]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 1,
+         "minute": 0,
+         "age": -65,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-95.156, 33.594, 521]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 0,
+         "minute": 0,
+         "age": -66,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-94.95, 33.599, 489]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 23,
+         "minute": 0,
+         "age": -67,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-94.751, 33.622, 450]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 22,
+         "minute": 0,
+         "age": -68,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-94.562, 33.669, 419]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 21,
+         "minute": 0,
+         "age": -69,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-94.386, 33.722, 420]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 20,
+         "minute": 0,
+         "age": -70,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-94.223, 33.76, 430]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 19,
+         "minute": 0,
+         "age": -71,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-94.071, 33.789, 425]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 18,
+         "minute": 0,
+         "age": -72,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 100
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-75.86, 39.701, 10]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 18,
+         "minute": 0,
+         "age": 0,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-75.945, 39.732, 8]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 17,
+         "minute": 0,
+         "age": -1,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.043, 39.795, 7]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 16,
+         "minute": 0,
+         "age": -2,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.148, 39.887, 9]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 15,
+         "minute": 0,
+         "age": -3,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.253, 39.968, 10]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 14,
+         "minute": 0,
+         "age": -4,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.349, 40.005, 9]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 13,
+         "minute": 0,
+         "age": -5,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.431, 40.005, 6]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 12,
+         "minute": 0,
+         "age": -6,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.511, 39.971, 4]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 11,
+         "minute": 0,
+         "age": -7,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.61, 39.902, 5]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 10,
+         "minute": 0,
+         "age": -8,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.737, 39.796, 10]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 9,
+         "minute": 0,
+         "age": -9,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.864, 39.686, 13]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 8,
+         "minute": 0,
+         "age": -10,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-76.972, 39.598, 18]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 7,
+         "minute": 0,
+         "age": -11,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.07, 39.517, 35]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 6,
+         "minute": 0,
+         "age": -12,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.183, 39.4, 64]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 5,
+         "minute": 0,
+         "age": -13,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.285, 39.24, 65]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 4,
+         "minute": 0,
+         "age": -14,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.352, 39.081, 50]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 3,
+         "minute": 0,
+         "age": -15,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.403, 38.929, 42]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 2,
+         "minute": 0,
+         "age": -16,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.438, 38.794, 36]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 1,
+         "minute": 0,
+         "age": -17,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.451, 38.678, 29]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 29,
+         "hour": 0,
+         "minute": 0,
+         "age": -18,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.474, 38.581, 22]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 23,
+         "minute": 0,
+         "age": -19,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.534, 38.494, 8]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 22,
+         "minute": 0,
+         "age": -20,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.635, 38.398, 6]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 21,
+         "minute": 0,
+         "age": -21,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.749, 38.302, 8]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 20,
+         "minute": 0,
+         "age": -22,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.844, 38.214, 8]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 19,
+         "minute": 0,
+         "age": -23,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.919, 38.13, 8]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 18,
+         "minute": 0,
+         "age": -24,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-77.985, 38.049, 8]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 17,
+         "minute": 0,
+         "age": -25,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.054, 37.97, 8]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 16,
+         "minute": 0,
+         "age": -26,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.122, 37.897, 9]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 15,
+         "minute": 0,
+         "age": -27,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.178, 37.839, 6]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 14,
+         "minute": 0,
+         "age": -28,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.221, 37.799, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 13,
+         "minute": 0,
+         "age": -29,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.257, 37.778, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 12,
+         "minute": 0,
+         "age": -30,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.294, 37.769, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 11,
+         "minute": 0,
+         "age": -31,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.341, 37.763, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 10,
+         "minute": 0,
+         "age": -32,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.398, 37.765, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 9,
+         "minute": 0,
+         "age": -33,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.452, 37.772, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 8,
+         "minute": 0,
+         "age": -34,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.489, 37.777, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 7,
+         "minute": 0,
+         "age": -35,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.509, 37.779, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 6,
+         "minute": 0,
+         "age": -36,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.525, 37.771, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 5,
+         "minute": 0,
+         "age": -37,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.548, 37.747, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 4,
+         "minute": 0,
+         "age": -38,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.578, 37.707, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 3,
+         "minute": 0,
+         "age": -39,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.602, 37.66, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 2,
+         "minute": 0,
+         "age": -40,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.61, 37.617, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 1,
+         "minute": 0,
+         "age": -41,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.604, 37.58, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 28,
+         "hour": 0,
+         "minute": 0,
+         "age": -42,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.601, 37.564, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 23,
+         "minute": 0,
+         "age": -43,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.616, 37.58, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 22,
+         "minute": 0,
+         "age": -44,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.644, 37.625, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 21,
+         "minute": 0,
+         "age": -45,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.673, 37.686, 2]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 20,
+         "minute": 0,
+         "age": -46,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.697, 37.759, 3]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 19,
+         "minute": 0,
+         "age": -47,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.718, 37.845, 4]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 18,
+         "minute": 0,
+         "age": -48,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.745, 37.953, 5]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 17,
+         "minute": 0,
+         "age": -49,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.782, 38.087, 6]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 16,
+         "minute": 0,
+         "age": -50,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.827, 38.253, 8]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 15,
+         "minute": 0,
+         "age": -51,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.884, 38.425, 13]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 14,
+         "minute": 0,
+         "age": -52,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-78.962, 38.565, 26]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 13,
+         "minute": 0,
+         "age": -53,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.056, 38.683, 35]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 12,
+         "minute": 0,
+         "age": -54,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.16, 38.778, 29]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 11,
+         "minute": 0,
+         "age": -55,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.285, 38.879, 47]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 10,
+         "minute": 0,
+         "age": -56,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.43, 39.018, 106]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 9,
+         "minute": 0,
+         "age": -57,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.589, 39.201, 93]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 8,
+         "minute": 0,
+         "age": -58,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.637, 39.229, 34]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 7,
+         "minute": 0,
+         "age": -59,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.644, 39.208, 7]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 6,
+         "minute": 0,
+         "age": -60,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.651, 39.193, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 5,
+         "minute": 0,
+         "age": -61,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.67, 39.201, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 4,
+         "minute": 0,
+         "age": -62,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.696, 39.231, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 3,
+         "minute": 0,
+         "age": -63,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.728, 39.279, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 2,
+         "minute": 0,
+         "age": -64,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.766, 39.34, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 1,
+         "minute": 0,
+         "age": -65,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.81, 39.412, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 27,
+         "hour": 0,
+         "minute": 0,
+         "age": -66,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.862, 39.508, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 23,
+         "minute": 0,
+         "age": -67,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.925, 39.646, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 22,
+         "minute": 0,
+         "age": -68,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-79.994, 39.827, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 21,
+         "minute": 0,
+         "age": -69,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-80.067, 40.015, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 20,
+         "minute": 0,
+         "age": -70,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-80.141, 40.178, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 19,
+         "minute": 0,
+         "age": -71,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    },
+    {"type": "Feature",
+     "geometry": {
+       "type": "Point",
+       "coordinates": [-80.204, 40.318, 0]
+     },
+      "properties": 
+       {
+         "year": "2012",
+         "type": "trajPoint",
+         "conc": 0.094,
+         "conc_hour": 13,
+         "month": 6,
+         "day": 26,
+         "hour": 18,
+         "minute": 0,
+         "age": -72,
+         "SITE_ID": "24-015-0003",
+         "date": "2012-06-29",
+         "rank": "1",
+         "releaseHeight": 10
+       }
+    }
+ ]
+}
