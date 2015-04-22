@@ -23,6 +23,12 @@ gulp.task('styles', function () {
     .pipe(reload({stream: true}));
 });
 
+gulp.task('deploy', ['build'], function () {
+  return gulp.src('dist')
+    .pipe($.subtree())
+    .pipe($.clean());
+});
+
 gulp.task('jshint', function () {
   return gulp.src('app/scripts/**/*.js')
     .pipe(reload({stream: true, once: true}))
