@@ -44,8 +44,12 @@ function showHeightPlot(layers) {
 
 // Trajectory Support Functions //
 
-function trajHighlight(e, sel) {
+function trajHighlight(e, sel, showPlot) {
 	'use strict';
+	if(typeof showPlot === 'undefined') {
+		showPlot = false;
+	}
+		
 	var props = e.target.feature.properties;
 	if(!$.isArray(sel)) {
 		sel = [sel];
@@ -76,9 +80,11 @@ function trajHighlight(e, sel) {
 	$('#date').html(props.date);
 	$('#rank').html(props.rank);
 	$('#conc').html(props.conc + ' ppb');
-	$('#conc_hour').html(props.conc_hour);
+	$('#conc_hour').html(props.concHour);
 	
-	showHeightPlot(plotLayers);
+	if(showPlot === true) {
+		showHeightPlot(plotLayers);
+	}
 
 }
 
@@ -107,6 +113,7 @@ function addTrajectory(obj) {
 			success: function(data) {
 				trajLayer.addData(data);	
 				trajPointStorage.addData(data);
+				map.fitBounds(trajLayer.getBounds());
 			}
 		});
 	
@@ -146,31 +153,35 @@ function addTrajectory(obj) {
 
 function removeTrajectory(obj) {
 	'use strict';
-	var keys = Object.keys(obj), l, k;
+	var keys = Object.keys(obj);
 
-	function trajRemove(val) {
-		if(trajLayer._layers[l].feature.properties[keys[k]] === val) {
-			trajLayer.removeLayer(trajLayer._layers[l]);
-		}
+	function trajRemove(obj, key, l) {
+		obj[key].forEach(function(val) {
+			if(trajLayer._layers[l].feature.properties[key] === val) {
+				trajLayer.removeLayer(trajLayer._layers[l]);
+			}
+		});
 	}		
 	
-	Object.keys(trajLayer._layers).forEach(function() {
+	Object.keys(trajLayer._layers).forEach(function(l) {
 	
 		for(var k = 0; k < keys.length; k++) {
-			obj[keys[k]].forEach(trajRemove);
+			trajRemove(obj, keys[k], l);
 		}
 
 	});
 	
-	function trajPointRemove(val) {
-		if(trajPointStorage._layers[l].feature.properties[keys[k]] === val) {
-			trajPointStorage.removeLayer(trajPointStorage._layers[l]);
-		}
+	function trajPointRemove(obj, key, l) {
+		obj[key].forEach(function(val) {
+			if(trajPointStorage._layers[l].feature.properties[key] === val) {
+				trajPointStorage.removeLayer(trajPointStorage._layers[l]);
+			}
+		});
 	}
 	
-	Object.keys(trajPointStorage._layers).forEach(function() {
+	Object.keys(trajPointStorage._layers).forEach(function(l) {
 		for(var k = 0; k < keys.length; k++) {
-			obj[keys[k]].forEach(trajPointRemove);
+			trajPointRemove(obj, keys[k], l);
 		}
 	});
 	
@@ -243,17 +254,15 @@ $.ajax({
 			if(ev.hasOwnProperty('added')) {
 				addSite(ev.added.id);
 			}
-			
 			if(ev.hasOwnProperty('removed')) {
 				removeSite(ev.removed.id);
 			}			
-		
 		});
 	}
 });
 
 function resizeMap() {
-	'use strict';
+  'use strict';
   document.getElementById('map').style.width = $('#map').parent().width() + 'px';
   var h = Math.min(window.innerHeight, $('#map').parent().width()) * 0.85;
   document.getElementById('map').style.height = h + 'px'; 
@@ -318,11 +327,11 @@ siteLayer = L.geoJson(null, {
 	onEachFeature: function(feature, layer) {
 		'use strict';
 		layer.on({
-			mouseover: function(e) {
-				trajHighlight(e, 'SITE_ID');
+			mouseover: function() {
+//				trajHighlight(e, 'SITE_ID');
 			},
 			mouseout: function() {
-				trajUnHighlight();
+//				trajUnHighlight();
 			}			
 		});
 	}
@@ -345,10 +354,13 @@ trajLayer = L.geoJson(null, {
 				if(trajLock === false) {
 					trajUnHighlight();
 				}
+				window.setTimeout(300, function() {
+					chart.unselect();
+				});
 			},
 			click: function(e) {
 				trajLock = true;
-				trajHighlight(e, ['rank', 'date', 'SITE_ID']);
+				trajHighlight(e, ['rank', 'date', 'SITE_ID'], true);
 			}
 		});		
 	},
@@ -377,20 +389,37 @@ trajPointStorage = L.geoJson(null, {
 	},
 	onEachFeature: function(feature, layer) {
 		'use strict';
+		var pot = '<table class = "table"><tr><td>Monitor</td><td>' + feature.properties.SITE_ID + '</td></tr>'+
+						'<tr><td>Date</td><td>' + feature.properties.date + '</td></tr>'+
+						'<tr><td>Height</td><td>' + feature.geometry.coordinates[2] + 'm</td></tr>'+
+						'<tr><td>Hour</td><td>' + feature.properties.age + '</td></tr></table';
+		var po = layer.bindPopup(pot, {closeButton: false});
 		layer.on({
 			mouseover: function(e) {
 				if(trajLock === false) {
 					trajHighlight(e, ['rank', 'date', 'SITE_ID']);
+				}
+				if(activeReading.rank === feature.properties.rank &&
+					activeReading.year === feature.properties.year &&
+					activeReading.site === feature.properties.SITE_ID) {
+					
+					layer.openPopup(po);
+					chart.select(['10', '100', '1000'], [(feature.properties.age*-1)], true);
+					
 				}
 			},
 			mouseout: function() {
 				if(trajLock === false) {
 					trajUnHighlight();
 				}
+				window.setTimeout(300, function() {
+					layer.closePopup(po);
+					chart.unselect();
+				});
 			},
 			click: function(e) {
 				trajLock = true;
-				trajHighlight(e, ['rank', 'date', 'SITE_ID']);
+				trajHighlight(e, ['rank', 'date', 'SITE_ID'], true);
 			}			
 		});
 	}
